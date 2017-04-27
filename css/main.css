@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+.conteiner {
+  width: 800px;
+  margin: auto;
+}
+
+ol {
+  margin: 30px;
+}
+
+.task {
+  font-weight: bold;
+  font-size: 19px;
+}
+
+.out {
+  background-color: #ebebe0;
+}
+
+p{
+  margin: 20px 0;
+}
+
+.n1 div {
+  margin: 20px 20px 30px 0;
+}
+
+.n4 span {
+  display: inline-block;
+  width: 125px;
+  height: 30px;
+  text-align: right;
+  padding-right: 10px;
+}
+
+.n4 button, #out1 {
+  margin: 10px 10px 10px 130px;
+}
+
+#out1 {
+
+}
